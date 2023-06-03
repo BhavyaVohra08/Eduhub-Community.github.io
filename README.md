@@ -1,8 +1,6 @@
 
 ## welcome to the official GitHub repository of Eduhub Community Website
- Eduhub is a community of the people, for the people and by the people. 
- Our vision is to create an environment where people can learn and apply technical knowledge together.
- Our mission is to build a strong technical community which is open-minded and has an intense desire for consistent learning from one another in the community. We have been conducting and organizing numerous Open Source Programs, Hackathons, Meetups, Conferences and 1:1 Mentorships.
+ Eduhub is a community of the people, for the people, and by the people. Our vision is to create an environment where people can learn and apply technical knowledge together. Our mission is to build a strong technical community that is open-minded and has an intense desire to learn from one another. We have been conducting and organising numerous open source programmes, hackathons, meetups, conferences, and 1:1 mentorships.
 
 ### An Open Source project Website built using HTML, CSS, JavaScript and Bootstrap Php 
 
